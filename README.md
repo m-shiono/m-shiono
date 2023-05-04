@@ -1,3 +1,4 @@
+ ![Followers](https://img.shields.io/github/followers/m-shiono)
 ### Hi there 👋
 
 <!--
