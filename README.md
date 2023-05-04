@@ -1,5 +1,14 @@
+<!---
  ![Followers](https://img.shields.io/github/followers/m-shiono)
-### Hi there 👋
+--->
+
+### Hi there. I'm shiono. 👋
+
+- 🔭 I’m aws engneer.
+- :eyes: I'm interested in AI, Machien learning.
+- ⚡fan with listening j-pop, playing classical guitar, traveling 
+- :cat2: cat lover
+
 
 <!--
 **m-shiono/m-shiono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
