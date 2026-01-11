@@ -49,13 +49,9 @@ Hi, I'm **Shiono**, an Infrastructure Engineer based in Japan 🇯🇵. I'm pass
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-shiono&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=m-shiono&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
----
 
 <p align="center">
   <em>Thanks for visiting! Feel free to explore my repositories.</em>
