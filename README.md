@@ -1,84 +1,62 @@
-<!---
- ![Followers](https://img.shields.io/github/followers/m-shiono)
---->
+# Infrastructure Engineer | Observability Advocate 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<p align="center">
+  <em>Building scalable cloud systems with passion for monitoring and automation</em>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shiono+%F0%9F%91%8B;Observability+for;better+infrastructure+%F0%9F%93%9A;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+## 🙋‍♂️ About Me
 
-## 🌟 **About Me**
+Hi, I'm **Shiono**, an Infrastructure Engineer based in Japan 🇯🇵. I'm passionate about building scalable and reliable cloud systems.
 
-<div align="center">
+- ☁️ Working with **AWS** cloud infrastructure
+- 🔧 Automating infrastructure with **Terraform**
+- 📊 Building **observability solutions** for better system insights
+- 🚀 Exploring serverless architectures and modern DevOps practices
+- 📚 Always learning and sharing knowledge with the community
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="100" height="100" alt="AWS" />
-<br><strong>AWS</strong>
-</td>
-<td width="400" align="left">
+---
 
-### 👋 **Hi, I'm Shiono!**
-🚀 **インフラエンジニア**
+## 🛠️ Tech Stack
 
-🌍 **拠点:** 日本 🇯🇵  
-💼 **専門:** AWSクラウド運用、自動化、Observerbility
-☁️ **好きな技術:** Terraform、サーバーレス
+**Cloud & Infrastructure**
 
-</td>
-</tr>
-</table>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</div>
+**Monitoring & Observability**
 
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
+**Languages**
 
-## 🛠️ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+**Tools**
 
-### ☁️  **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker" />
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+---
 
+## 📊 GitHub Stats
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=powershell,python,javascript" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-shiono&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
 
-</td>
-<td width="50%" align="center" valign="top">
+---
 
-
-### 🛠️  **My Tools**
-<img src="https://skillicons.dev/icons?i=vscode,github,notion,obsidian,twitter" />
-
-
-### 🧩  **Other**
-<img src="https://skillicons.dev/icons?i=windows,linux" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  Created by [m-shiono](https://github.com/m-shiono) 🚀
-
-</div>
+<p align="center">
+  <em>Thanks for visiting! Feel free to explore my repositories.</em>
+</p>
