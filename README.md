@@ -23,6 +23,7 @@ Hi, I'm **Shiono**, an Infrastructure Engineer based in Japan 🇯🇵. I'm pass
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -43,8 +44,12 @@ Hi, I'm **Shiono**, an Infrastructure Engineer based in Japan 🇯🇵. I'm pass
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**Platform**
+
+![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft)
+![Linux](https://img.shields.io/badge/platform-Linux-green?logo=linux)
 
 ---
 
